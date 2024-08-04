@@ -1,2 +1,4 @@
 # js_total
-Toamdo del curso JS Total. incluye instructivo de Html, Css y JS
+Tomado del curso JS Total. Incluye instructivo de Html, Css y JS
+
+Iniciado el 3 de agosto de 2024
